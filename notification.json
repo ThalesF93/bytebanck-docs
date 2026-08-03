@@ -1,1 +1,1 @@
-
+{"openapi":"3.1.0","info":{"title":"ByteBank Notification API","description":"API responsible only to send email after Transference","contact":{"name":"Thales Fernandes","url":"https://github.com/thalesF93","email":"thalesgarcezf@gmail.com"},"version":"v1.0.0"},"externalDocs":{"description":"Project Repository","url":"https://github.com/thalesF93/bytebank"},"servers":[{"url":"/","description":"Default Server URL"}],"paths":{},"components":{}}
